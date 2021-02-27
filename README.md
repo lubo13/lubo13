@@ -1,6 +1,11 @@
-### Hi there 👋
+# 𝗛𝗲𝗹𝗹𝗼 there 👋 [![Twitter Badge](https://img.shields.io/twitter/follow/lubo13_?style=social)](https://twitter.com/lubo13_) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lubo13)
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=lubo13&show_icons=true&hide_border=true">
 
 <!--
+https://shields.io/
+https://gist.github.com/vinkla/dca76249ba6b73c5dd66a4e986df4c8d
+
 **lubo13/lubo13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
