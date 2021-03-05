@@ -1,6 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼 there 👋 [![Twitter Badge](https://img.shields.io/twitter/follow/lubo13_?style=social)](https://twitter.com/lubo13_) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lubo13)
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=lubo13&count_private=true&include_all_commits=true&theme=onedark">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lubo13&count_private=true&theme=onedark">
 
 ### PHP/Symfony/Zend Certified Engineer.
 
