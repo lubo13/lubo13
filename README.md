@@ -1,4 +1,4 @@
-# 𝗛𝗲𝗹𝗹𝗼 there 👋 [![Twitter Badge](https://img.shields.io/twitter/follow/lubo13_?style=social)](https://twitter.com/lubo13_) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lubo13)
+# 𝗛𝗲𝗹𝗹𝗼 there 👋 <a href="https://twitter.com/lubo13_"></a> ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lubo13)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=lubo13&count_private=true&theme=onedark">
 
