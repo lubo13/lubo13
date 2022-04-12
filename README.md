@@ -4,8 +4,7 @@
 
 ### PHP/Symfony/Zend Certified Engineer.
 
-<img src="https://connect.symfony.com/uploads/badges/58dfb69d-d843-411c-a52c-cd24bc3016f9/c6f666dc-c3f8-432a-8717-ea600e528b20.png" alt="Symfony 6 Certification Badge" width="75" height="75">
-<img src="https://user-images.githubusercontent.com/10156301/109388166-109a9000-790e-11eb-8775-9311db14a958.png" alt="Symfony 4 Certification Badge" width="75" height="75"><img src="https://user-images.githubusercontent.com/10156301/109388173-1d1ee880-790e-11eb-9beb-79341713ae19.gif" alt="ZCE - PHP 7 Certification Badge" width="75" height="75">
+<img src="https://connect.symfony.com/uploads/badges/58dfb69d-d843-411c-a52c-cd24bc3016f9/c6f666dc-c3f8-432a-8717-ea600e528b20.png" alt="Symfony 6 Certification Badge" width="75" height="75"><img src="https://user-images.githubusercontent.com/10156301/109388166-109a9000-790e-11eb-8775-9311db14a958.png" alt="Symfony 4 Certification Badge" width="75" height="75"><img src="https://user-images.githubusercontent.com/10156301/109388173-1d1ee880-790e-11eb-9beb-79341713ae19.gif" alt="ZCE - PHP 7 Certification Badge" width="75" height="75">
 
 <!--
 https://shields.io/
